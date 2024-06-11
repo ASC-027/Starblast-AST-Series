@@ -2,6 +2,8 @@
 Starblast: AST Series 
 - Mod Code: ASC-027
 - Ships: ASC-027 an ASC-095
+
+THIS IS A COLLAB WITH ASC-095
 */
 
 var ships = [];
